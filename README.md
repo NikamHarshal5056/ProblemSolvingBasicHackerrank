@@ -10,15 +10,15 @@ HackerRank is a platform that provides coding challenges in various domains, all
 #Languages Used
 The solutions are primarily implemented in the following programming languages:
 
-Python 
-Java
-C++
-JavaScript
+Python,
+Java,
+C++,
+JavaScript,
 Problem Domains
 
 Solutions are available in python only in this repo.
 #The problems in this repository cover various domains, including but not limited to:
 
-Algorithms
-Data Structures
+Algorithms,
+Data Structures,
 Mathematics
